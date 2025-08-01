@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co/1fKBBd1W/tapan-sahaji-banner.png">
 <h1 align="center">Hi 👋, I'm Tapan Sahaji</h1>
 <h3 align="center">Professional Web Design developer and WordPress Expert | Beautiful Design | A passionate frontend developer</h3>
 
